@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello! I'm Léo TIOLLIER.</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ltiollier/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/ltiollier/" target="_blank">Linkedin</a> •
+  <a href="https://github.com/LTiollier/LTiollier/blob/main/CV.pdf" target="_blank">CV</a>
 </p>
 
 <p>
