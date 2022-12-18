@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center">👋 Hello! I'm Léo TIOLLIER.</h1>
 
-<!--
-**LTiollier/LTiollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ltiollier/">Linkedin</a>
+</p>
 
-Here are some ideas to get you started:
+<p>
+  I am a french <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> backend developer in Laravel even if I sometimes do ReactJS. I love the ecosystem around Laravel but I'm not closed to discover Symfony. I work in Lyon, the gastronomic capital of the world, I assure you !
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🖥️ My Workspace</h2>
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a.svg?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white" />
+  <img alt"MUI" src="https://img.shields.io/badge/-MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white" />
+  <img alt"VusJS" src="https://img.shields.io/badge/-Vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
+  <img alt"Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="PHPStorm" src="https://img.shields.io/badge/-Phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
+  <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=Brave&logoColor=white" />
+  <img alt="MacOS" src="https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=macos&logoColor=F0F0F0" />
+</p>
+
+<h2>📝 Latest Blog Posts </h2>
+
+<ul>
+  <li><a href="https://web-id.fr/fr/blog/back-end/symfony-teste-dun-point-de-vue-laravel">Symfony testé d'un point de vue Laravel</a></li>
+  <li><a href="https://web-id.fr/fr/blog/decryptage/on-vous-presentenotre-nouveau-package-dimpersonate">Package Persil</a></li>
+  <li><a href="https://web-id.fr/fr/blog/laravel/pest-avec-laravel-1">Pest avec Laravel</a></li>
+  <li><a href="https://web-id.fr/fr/blog/decryptage/une-nouvelle-maniere-de-faire-des-custom-rules">Update des customs rules Laravel</a></li>
+  <li><a href="https://web-id.fr/fr/blog/back-end/setup-windows-wsl2-x-ubuntu-x-laravel-sail-docker">Setup Windows WSL2 x Ubuntu x Laravel Sail</a></li>
+</ul>
