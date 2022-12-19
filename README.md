@@ -26,7 +26,7 @@
   <img alt="MacOS" src="https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=macos&logoColor=F0F0F0" />
 </p>
 
-<h2>📝 Latest Blog Posts </h2>
+<h2>📝 Latest Posts </h2>
 
 <ul>
   <li><a href="https://web-id.fr/fr/blog/back-end/symfony-teste-dun-point-de-vue-laravel">Symfony testé d'un point de vue Laravel</a></li>
