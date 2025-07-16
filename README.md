@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  I am a french <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> backend developer in Laravel even if I sometimes do ReactJS. I love the ecosystem around Laravel but I'm not closed to discover Symfony. I work in Lyon, the gastronomic capital of the world, I assure you !
+  I am a french <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> backend developer working primarily with Node.js and ReactJS. I still love to keep up with the latest news from the Laravel and PHP ecosystem! I work in Lyon, the gastronomic capital of the world, I assure you!
 </p>
 
 <h2>🖥️ My Workspace</h2>
